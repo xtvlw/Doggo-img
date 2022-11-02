@@ -1,8 +1,13 @@
+import './header.css'
 
 const Header = () => {
     return (
     <section>
-        header
+        <h1>Doggo images</h1>
+        <ul>
+            <li>Why?</li>
+            <li>Get the code</li>
+        </ul>
     </section>
     )
 }

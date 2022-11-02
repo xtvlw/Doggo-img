@@ -1,5 +1,5 @@
 import { useState } from "react"
-
+import "./image.css"
 
 const Image = () => {
     const [imageLink, setImageLink] = useState('')
@@ -12,8 +12,10 @@ const Image = () => {
 
     return (
         <div className="user_interactions">
-            <img src={imageLink} alt="Doggo Image"/>
-            <button onClick={getRandImg}g>
+            <div className="image_part">
+                <img src={imageLink} alt="Doggo Image" />
+            </div>
+            <button onClick={getRandImg} g>
                 Random Dog
             </button>
         </div>

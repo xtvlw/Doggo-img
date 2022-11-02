@@ -1,0 +1,19 @@
+section {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    background-color: white;
+    width: 100%;
+    top: 0px;
+    color: #0099ff;
+    margin-bottom: 25px;
+}
+ul {
+    display: flex;
+    list-style: none;
+    color: #0099ff;
+    margin-right: 15px;
+}
+li {
+    margin-left: 2em;
+}
