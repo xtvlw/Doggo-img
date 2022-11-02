@@ -9,7 +9,7 @@ body {
 
 img {
     border-radius: var(--border-radius);
-    width: 35em;
+    height: 500px;
     transition: 1s;
 }
 
@@ -36,7 +36,7 @@ button {
 }
 
 img:hover {
-    width: 40em;
+    height: 600px;
 }
 
 button:hover {
