@@ -22,8 +22,8 @@ export default App;
 ## importing components
 in this app we need to import 2 components, the `Header` and the `Image`
 ### docs for the components
-- [[Header]]
-- [[Image]]
+- [Header](https://github.com/xtvlw/Doggo-img/blob/main/docs/components/Header.md)
+- [Image](https://github.com/xtvlw/Doggo-img/blob/main/docs/components/Image.md)
 
 ```js
 import Image from '../image/Image'

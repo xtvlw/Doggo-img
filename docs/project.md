@@ -10,7 +10,7 @@ flowchart TD;
 ---
 
 # Index of the tree
-- [[index]]
-	- [[App]]
-		- [[Header]]
-		- [[Image]]
+- [index](https://github.com/xtvlw/Doggo-img/blob/main/docs/components/index.md)
+	- [App](https://github.com/xtvlw/Doggo-img/blob/main/docs/components/App.md)
+		- [Header](https://github.com/xtvlw/Doggo-img/blob/main/docs/components/Header.md)
+		- [Image](https://github.com/xtvlw/Doggo-img/blob/main/docs/components/Image.md)

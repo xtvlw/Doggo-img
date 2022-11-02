@@ -31,7 +31,7 @@ import reportWebVitals from './reportWebVitals';
 ## import component
 we need to import the `App` component to set all the application
 ### App doc
-- [[App]]
+- [App](https://github.com/xtvlw/Doggo-img/blob/main/docs/components/App.md)
 
 ```js
 import App from './components/app/App';
