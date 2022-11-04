@@ -11,7 +11,7 @@ This web page get random images of dogs.
 - Node.js => 16v
 - NPM => 8v
 
-### how to set up
+## how to set up
 the code below will install any dependence for the app and start the project in `http://localhost:3000/`
 
 ```bash
